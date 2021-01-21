@@ -18,6 +18,8 @@ https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.19.pdf
 ## Practice
 https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/core-concepts
 
+AKS https://docs.microsoft.com/en-us/learn/modules/aks-workshop/02-deploy-aks
+
 ## Course
 Linux Foundation
 https://training.linuxfoundation.org/training/kubernetes-for-developers/
