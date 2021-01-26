@@ -18,7 +18,7 @@ https://itnext.io/practical-tips-for-passing-ckad-exam-6cbdf2d35cb1
 https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.19.pdf
 
 ## Practice
-https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/core-concepts
+https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges
 
 https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
 
