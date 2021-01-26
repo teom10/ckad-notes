@@ -1,6 +1,8 @@
 # ckad-notes
 links and resources to prepare for CKAD
 
+https://jamesdefabia.github.io/docs/user-guide/kubectl/kubectl_run/
+
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 https://github.com/lucassha/CKAD-resources
