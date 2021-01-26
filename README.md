@@ -20,6 +20,8 @@ https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.19.pdf
 ## Practice
 https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/core-concepts
 
+https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
+
 AKS https://docs.microsoft.com/en-us/learn/modules/aks-workshop/02-deploy-aks
 
 ## Course
@@ -40,6 +42,12 @@ Designing Distributed SystemsPatterns and Paradigms forScalable, Reliable Servic
 Hands-On Kubernetes on Azure
 
 KUBERNETESDEPLOYMENTPATTERNS& SECURITY
+
+https://tanzu.s3.us-east-2.amazonaws.com/campaigns/pdfs/KUAR_V2_31620.pdf
+
+https://azurecomcdn.azureedge.net/cvt-2881b2a529b708c1f6ca6ce54d3368d6a0b5536105a12d7c023e5ab6fef6e4e5/mediahandler/files/resourcefiles/designing-distributed-systems/Designing_Distributed_Systems.pdf
+
+https://clouddamcdnprodep.azureedge.net/gdc/gdcE4Pb4j/original
 
 ## Generator
 https://medium.com/@atharvac.cloud/kubernetes-deep-dive-part-3-generators-for-quick-poc-6cac698f08eb
